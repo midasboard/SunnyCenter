@@ -1,0 +1,5 @@
+{
+  "name": "Sunny Center Dashboard",
+  "description": "Financial dashboard for Condominio Sunny Center visualizing budgets, expenses, and installments.",
+  "requestFramePermissions": []
+}
